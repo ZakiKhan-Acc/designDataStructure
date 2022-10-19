@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author zaki
+ *
+ */
+module designDataStructure {
+}
